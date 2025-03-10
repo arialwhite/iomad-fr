@@ -1,0 +1,292 @@
+<?php
+// This file is part of Moodle - http://moodle.org/
+//
+// Moodle is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+//
+// Moodle is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+
+/**
+ * Strings for component 'reportbuilder', language 'en'
+ *
+ * @package    core_reportbuilder
+ * @copyright  2020 Sara Arjona <sara@moodle.com>
+ * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ */
+
+$string['access'] = 'Accès';
+$string['actions'] = 'Actions';
+$string['addaudience'] = 'Ajouter le public \'{$a}\'';
+$string['addcolumn'] = 'Ajouter la colonne \'{$a}\'';
+$string['addusers'] = 'Ajouter des utilisateurs manuellement';
+$string['aggregatecolumn'] = 'Colonne globale \'{$a}\'';
+$string['aggregationavg'] = 'Moyenne';
+$string['aggregationcount'] = 'Nombre';
+$string['aggregationcountdistinct'] = 'Compte distinct';
+$string['aggregationgroupconcat'] = 'Valeurs séparées par une virgule';
+$string['aggregationgroupconcatdistinct'] = 'Valeurs distinctes séparées par virgule';
+$string['aggregationmax'] = 'Maximum';
+$string['aggregationmin'] = 'Minimum';
+$string['aggregationnone'] = 'Pas d\'agrégation';
+$string['aggregationpercent'] = 'Pourcentage';
+$string['aggregationsum'] = 'Sum';
+$string['allsiteusers'] = 'Tous les utilisateurs du site';
+$string['allusers'] = 'Tous les utilisateurs';
+$string['apply'] = 'Appliquer';
+$string['audience'] = 'Auditoire';
+$string['audienceadded'] = 'Audience ajoutée \'{$a}\'';
+$string['audiencecreated'] = 'Public créé';
+$string['audiencedeleted'] = 'Public supprimé \'{$a}\'';
+$string['audiencedeletedevent'] = 'Public supprimé';
+$string['audiencelabel'] = '{$a->nom} : {$a->description}';
+$string['audiencemultiselectpostfix'] = '{$a->éléments} plus {$a->pluscompte} plus';
+$string['audiencenotsaved'] = 'Auditoire non sauvé';
+$string['audiencesaved'] = 'Audience sauvée';
+$string['audienceupdated'] = 'Audience mise à jour';
+$string['audienceusedbyschedule'] = 'Cette audience est utilisée dans un calendrier pour ce rapport';
+$string['cardview'] = 'Vue de la carte';
+$string['cardview_help'] = 'La vue de carte vous permet de définir la disposition de votre rapport lorsqu\'il est consulté sur des appareils étroits. Les colonnes s\'effondreront au-delà de la limite fixée ici, avec un basculement pour agrandir la carte pour afficher toutes les données de rapport.';
+$string['cardviewfirstcolumntitle'] = 'Titre de la première colonne';
+$string['cardviewsettingssaved'] = 'Paramètres d\'affichage de la carte enregistrés';
+$string['cardviewvisiblecolumns'] = 'Colonnes visibles';
+$string['categoryselect'] = 'Sélectionner une catégorie';
+$string['close'] = 'Fermer';
+$string['closeeditor'] = 'Fermer \'{$a}\' editor';
+$string['columnadded'] = 'Ajouté la colonne \'{$a}\'';
+$string['columnaggregated'] = 'Colonne agrégée \'{$a}\'';
+$string['columndeleted'] = 'Colonne supprimée \'{$a}\'';
+$string['columnmoved'] = 'Colonne déplacée \'{$a}\'';
+$string['columnsortdirectionasc'] = 'Modifier le tri initial pour la colonne \'{$a}\' to ascending';
+$string['columnsortdirectiondesc'] = 'Modifier le tri initial pour la colonne \'{$a}\' to descending';
+$string['columnsortdisable'] = 'Désactiver le tri initial pour la colonne \'{$a}\'';
+$string['columnsortenable'] = 'Activer le tri initial pour la colonne \'{$a}\'';
+$string['columnsortupdated'] = 'Tri mis à jour pour la colonne \'{$a}\'';
+$string['conditionadded'] = 'Condition ajoutée \'{$a}\'';
+$string['conditiondeleted'] = 'État supprimé \'{$a}\'';
+$string['conditionmoved'] = 'État déplacé \'{$a}\'';
+$string['conditions'] = 'Conditions générales';
+$string['conditions_help'] = 'Les conditions de rapport vous permettent de limiter les données affichées lorsque le rapport est visionné. Les utilisateurs qui regardent le rapport ne peuvent pas dépasser ces valeurs de condition.';
+$string['conditionsapplied'] = 'Conditions appliquées';
+$string['conditionsreset'] = 'Conditions de réinitialisation';
+$string['coursefullnamewithlink'] = 'Nom complet du cours avec lien';
+$string['courseidnumberewithlink'] = 'Numéro d\'identification du cours avec lien';
+$string['courseshortnamewithlink'] = 'Nom court du cours avec lien';
+$string['courseselect'] = 'Sélectionner le cours';
+$string['customfieldcolumn'] = '{$a}';
+$string['customreport'] = 'Rapport personnalisé';
+$string['customreports'] = 'Rapports personnalisés';
+$string['customreportslimit'] = 'Limite des rapports personnalisés';
+$string['customreportslimit_desc'] = 'Le nombre de rapports personnalisés peut être limité pour des raisons de performance. Si elle est fixée à zéro, il n\'y a pas de limite.';
+$string['customreportsliveediting'] = 'Édition en direct des rapports personnalisés';
+$string['customreportsliveediting_desc'] = 'Si activé, les utilisateurs peuvent afficher les données de rapport tout en éditant le rapport. Cela peut être désactivé pour des raisons de performance.';
+$string['customreportsliveeditingdisabled'] = 'La visualisation des données de rapport pendant l\'édition est désactivée par l\'administrateur du site. Passez en mode prévisualisation pour afficher le rapport.';
+$string['customreportssettings'] = 'Paramètres de rapport personnalisés';
+$string['deleteaudience'] = 'Supprimer le public \'{$a}\'';
+$string['deleteaudienceconfirm'] = 'Voulez-vous vraiment supprimer le public \'{$a}\'?';
+$string['deletecolumn'] = 'Supprimer la colonne \'{$a}\'';
+$string['deletecolumnconfirm'] = 'Voulez-vous vraiment supprimer la colonne \'{$a}\'?';
+$string['deletecondition'] = 'Supprimer l\' état \'{$a}\'';
+$string['deleteconditionconfirm'] = 'Voulez-vous vraiment supprimer la condition \'{$a}\'?';
+$string['deletefilter'] = 'Supprimer le filtre \'{$a}\'';
+$string['deletefilterconfirm'] = 'Voulez-vous vraiment supprimer le filtre \'{$a}\'?';
+$string['deletereport'] = 'Supprimer le rapport';
+$string['deletereportconfirm'] = 'Voulez-vous vraiment supprimer le rapport \'{$a}\' and all associated data?';
+$string['deleteschedule'] = 'Supprimer le calendrier';
+$string['deletescheduleconfirm'] = 'Voulez-vous vraiment supprimer l\'agenda \'{$a}\'?';
+$string['disableschedule'] = 'Désactiver le calendrier';
+$string['editaudience'] = 'Éditer le public \'{$a}\'';
+$string['editdetails'] = 'Modifier les détails';
+$string['editor'] = 'Éditeur';
+$string['editreportcontent'] = 'Modifier le contenu du rapport';
+$string['editreportdetails'] = 'Modifier les détails du rapport';
+$string['editreportname'] = 'Modifier le nom du rapport';
+$string['editscheduledetails'] = 'Modifier les détails du calendrier';
+$string['editschedulename'] = 'Modifier le nom de l\'horaire';
+$string['enablecustomreports'] = 'Activer les rapports personnalisés';
+$string['enablecustomreports_desc'] = 'Si activé, les utilisateurs peuvent créer et afficher les rapports personnalisés du constructeur de rapports.';
+$string['enableschedule'] = 'Activer le calendrier';
+$string['entitycourse'] = 'Cours';
+$string['entityuser'] = 'Utilisateur';
+$string['errorreportcreate'] = 'Vous ne pouvez pas créer un nouveau rapport';
+$string['errorreportedit'] = 'Vous ne pouvez pas modifier ce rapport';
+$string['errorreportview'] = 'Vous ne pouvez pas voir ce rapport';
+$string['errorsourceinvalid'] = 'Impossible de trouver la source de rapport valide';
+$string['errorsourceunavailable'] = 'La source du rapport n\'est pas disponible';
+$string['filteradded'] = 'Ajout du filtre \'{$a}\'';
+$string['filtercontains'] = 'Contient';
+$string['filterdateafter'] = 'Après';
+$string['filterdatebefore'] = 'Avant';
+$string['filterdatecurrent'] = 'Actuellement';
+$string['filterdatedays'] = 'jour(s)';
+$string['filterdatefuture'] = 'À l\'avenir';
+$string['filterdatehours'] = 'heure(s)';
+$string['filterdatelast'] = 'Dernier';
+$string['filterdateminutes'] = 'minute(s)';
+$string['filterdatemonths'] = 'mois(s)';
+$string['filterdatenext'] = 'Suivant';
+$string['filterdatepast'] = 'Dans le passé';
+$string['filterdateseconds'] = 'seconde(s)';
+$string['filterdateweeks'] = 'semaine(s)';
+$string['filterdateyears'] = 'année(s)';
+$string['filterdeleted'] = 'Filtre supprimé \'{$a}\'';
+$string['filterdoesnotcontain'] = 'Ne contient pas';
+$string['filterendswith'] = 'Termine par';
+$string['filterequalorgreaterthan'] = 'Supérieur ou égal à';
+$string['filterequalorlessthan'] = 'inférieur ou égal à';
+$string['filterfieldfrom'] = '{$a} de';
+$string['filterfieldoperator'] = 'Opérateur {$a}';
+$string['filterfieldto'] = '{$a} à';
+$string['filterfieldunit'] = '{$a} unité';
+$string['filterfieldvalue'] = 'Valeur {$a}';
+$string['filtergreaterthan'] = 'Plus grande que';
+$string['filterinvalid'] = 'Filtre non valide';
+$string['filterisanyvalue'] = 'Est n\'importe quelle valeur';
+$string['filterisempty'] = 'Est vide';
+$string['filterisequalto'] = 'Est égal à';
+$string['filterisnotempty'] = 'N\'est pas vide';
+$string['filterisnotequalto'] = 'N\'est pas égal à';
+$string['filterlessthan'] = 'Moins de';
+$string['filtermoved'] = 'Filtre déplacé \'{$a}\'';
+$string['filterrange'] = 'Portée';
+$string['filtersapplied'] = 'Filtres appliqués';
+$string['filtersappliedx'] = 'Filtres ({$a})';
+$string['filters'] = 'Filtres';
+$string['filters_help'] = 'Les filtres de rapport permettent aux utilisateurs de visualiser le rapport pour limiter davantage les données affichées, en sélectionnant leurs propres valeurs pour chaque filtre. Les valeurs du filtre sont stockées par utilisateur.';
+$string['filtersreset'] = 'Réinitialiser les filtres';
+$string['filterstartswith'] = 'Commence par';
+$string['hassystemrole'] = 'Rôle du système attribué';
+$string['includedefaultsetup'] = 'Inclure la configuration par défaut';
+$string['includedefaultsetup_help'] = 'Popular rapport avec la mise en page par défaut telle que définie par la source sélectionnée. Celles-ci comprennent des colonnes, des filtres et des conditions prédéfinies.';
+$string['manuallyaddedusers'] = 'Utilisateurs ajoutés manuellement';
+$string['messagebody'] = 'Corps';
+$string['messagecontent'] = 'Contenu du message';
+$string['messagesubject'] = 'Sujet';
+$string['movecolumn'] = 'Déplacer la colonne \'{$a}\'';
+$string['movecondition'] = 'Déplacement \'{$a}\'';
+$string['movefilter'] = 'Déplacer le filtre \'{$a}\'';
+$string['movesorting'] = 'Déplacer le tri pour la colonne \'{$a}\'';
+$string['newreport'] = 'Nouveau rapport';
+$string['newschedule'] = 'Nouveau calendrier';
+$string['noaudiences'] = 'Il n\'y a pas de public pour ce rapport';
+$string['noconditions'] = 'Aucune condition n\'est retenue';
+$string['nofilters'] = 'Il n\'y a pas de filtres sélectionnés';
+$string['nosortablecolumns'] = 'Il n\'y a pas de colonnes triables';
+$string['or'] = 'or';
+$string['privacy:metadata:audience'] = 'Définition de l\'auditoire';
+$string['privacy:metadata:audience:classname'] = 'La classe utilisée par le public';
+$string['privacy:metadata:audience:configdata'] = 'Données de configuration utilisées par le public';
+$string['privacy:metadata:audience:heading'] = 'Le titre personnalisé utilisé par le public';
+$string['privacy:metadata:audience:timecreated'] = 'Le moment où le public a été créé';
+$string['privacy:metadata:audience:timemodified'] = 'Le moment où le public a été modifié pour la dernière fois';
+$string['privacy:metadata:audience:usercreated'] = 'L\'ID de l\'utilisateur qui a créé le public';
+$string['privacy:metadata:audience:usermodified'] = 'L\'ID de l\'utilisateur qui a modifié le public en dernier';
+$string['privacy:metadata:column'] = 'Définitions des colonnes de rapport';
+$string['privacy:metadata:column:uniqueidentifier'] = 'Identifiant unique de la colonne';
+$string['privacy:metadata:column:usercreated'] = 'L\'ID de l\'utilisateur qui a créé la colonne';
+$string['privacy:metadata:column:usermodified'] = 'L\'ID de l\'utilisateur qui a modifié la dernière colonne';
+$string['privacy:metadata:filter'] = 'Définition des filtres à déclaration';
+$string['privacy:metadata:filter:uniqueidentifier'] = 'Identifiant unique du filtre';
+$string['privacy:metadata:filter:usercreated'] = 'L\'ID de l\'utilisateur qui a créé le filtre';
+$string['privacy:metadata:filter:usermodified'] = 'L\'ID de l\'utilisateur qui a modifié le dernier filtre';
+$string['privacy:metadata:preference:reportfilter'] = 'Valeurs du filtre de déclaration stockées';
+$string['privacy:metadata:report'] = 'Définitions des rapports';
+$string['privacy:metadata:report:conditiondata'] = 'Données de configuration pour les conditions du rapport';
+$string['privacy:metadata:report:name'] = 'Nom du rapport';
+$string['privacy:metadata:report:settingsdata'] = 'Configuration générale du rapport';
+$string['privacy:metadata:report:source'] = 'La source du rapport';
+$string['privacy:metadata:report:timecreated'] = 'Le moment où le rapport a été créé';
+$string['privacy:metadata:report:timemodified'] = 'Le moment où le rapport a été modifié pour la dernière fois';
+$string['privacy:metadata:report:uniquerows'] = 'Indique si les lignes dupliquées sont supprimées';
+$string['privacy:metadata:report:usercreated'] = 'L\'ID de l\'utilisateur qui a créé le rapport';
+$string['privacy:metadata:report:usermodified'] = 'L\'ID de l\'utilisateur qui a modifié le dernier rapport';
+$string['privacy:metadata:schedule'] = 'Définitions du calendrier des rapports';
+$string['privacy:metadata:schedule:audiences'] = 'Le public de ce calendrier est pour';
+$string['privacy:metadata:schedule:enabled'] = 'État du calendrier';
+$string['privacy:metadata:schedule:format'] = 'Présentation du rapport prévu';
+$string['privacy:metadata:schedule:message'] = 'Le message du calendrier';
+$string['privacy:metadata:schedule:name'] = 'Le nom de l\'horaire';
+$string['privacy:metadata:schedule:recurrence'] = 'La récurrence du calendrier';
+$string['privacy:metadata:schedule:reportempty'] = 'Mesures à prendre si le rapport prévu est vide';
+$string['privacy:metadata:schedule:subject'] = 'Objet du calendrier';
+$string['privacy:metadata:schedule:timecreated'] = 'Le moment où le calendrier a été créé';
+$string['privacy:metadata:schedule:timemodified'] = 'Le moment où le calendrier a été modifié pour la dernière fois';
+$string['privacy:metadata:schedule:timescheduled'] = 'Le moment où le calendrier commencera';
+$string['privacy:metadata:schedule:usercreated'] = 'L\'ID de l\'utilisateur qui a créé l\'agenda';
+$string['privacy:metadata:schedule:usermodified'] = 'L\'ID de l\'utilisateur qui a modifié le calendrier en dernier';
+$string['privacy:metadata:schedule:userviewas'] = 'L\'ID de l\'utilisateur qui sera vu comme';
+$string['recurrence'] = 'Récurrence';
+$string['recurrenceannually'] = 'Chaque année';
+$string['recurrencedaily'] = 'Tous les jours';
+$string['recurrencemonthly'] = 'Mensuel';
+$string['recurrenceweekdays'] = 'Tous les jours (semaines seulement)';
+$string['recurrenceweekly'] = 'Semaine';
+$string['renameaudience'] = 'Renommer le public \'{$a}\'';
+$string['renamecolumn'] = 'Renommer la colonne \'{$a}\'';
+$string['renamefilter'] = 'Renommer le filtre \'{$a}\'';
+$string['reportbuilder'] = 'Constructeur de rapports';
+$string['reportcreated'] = 'Rapport créé';
+$string['reportdeleted'] = 'Rapport supprimé';
+$string['reports'] = 'Rapports';
+$string['reportsource'] = 'Source du rapport';
+$string['reportsource_help'] = 'La source du rapport définit d\'où viendront les données du rapport.';
+$string['reportupdated'] = 'Rapport actualisé';
+$string['reportviewed'] = 'Rapport consulté';
+$string['resetall'] = 'Tout réinitialiser';
+$string['resetconditions'] = 'Réinitialiser les conditions';
+$string['resetconditionsconfirm'] = 'Voulez-vous vraiment réinitialiser toutes les conditions de ce rapport?';
+$string['schedulecreated'] = 'Calendrier créé';
+$string['scheduledeleted'] = 'Calendrier supprimé';
+$string['scheduleempty'] = 'Si le rapport est vide';
+$string['scheduleemptydontsend'] = 'Don\'t send message';
+$string['scheduleemptysendwithattachment'] = 'Envoyer un message avec un rapport vide';
+$string['scheduleemptysendwithoutattachment'] = 'Envoyer un message sans rapport';
+$string['schedules'] = 'Tableaux';
+$string['schedulesent'] = 'Calendrier envoyé';
+$string['scheduleupdated'] = 'Calendrier actualisé';
+$string['scheduleviewas'] = 'Afficher les données du rapport comme';
+$string['scheduleviewascreator'] = 'Créateur de calendrier';
+$string['scheduleviewasrecipient'] = 'Bénéficiaire';
+$string['selectacondition'] = 'Sélectionner une condition';
+$string['selectafilter'] = 'Sélectionner un filtre';
+$string['selectareportsource'] = 'Sélectionnez une source de rapport';
+$string['sendschedule'] = 'Programme d\'envoi';
+$string['sendscheduleconfirm'] = 'Voulez-vous vraiment attendre l\'horaire \'{$a}\' for sending immediately?';
+$string['showhide'] = 'Afficher / cacher \'{$a}\'';
+$string['showhidecard'] = 'Afficher / cacher la carte';
+$string['sorting'] = 'Tri';
+$string['sorting_help'] = 'Vous pouvez définir l\'ordre de tri initial des colonnes dans le rapport, qui peut ensuite être modifié par les utilisateurs en cliquant sur les noms de colonnes.';
+$string['switchedit'] = 'Changer de mode d\'édition';
+$string['switchpreview'] = 'Passer au mode de prévisualisation';
+$string['tagarea_reportbuilder_report'] = 'Rapports personnalisés';
+$string['tasksendschedule'] = 'Envoi du calendrier des rapports';
+$string['tasksendschedules'] = 'Envoyer des calendriers de rapports';
+$string['timeadded'] = 'Temps ajouté';
+$string['timecreated'] = 'Temps créé';
+$string['timelastsent'] = 'Dernier envoi';
+$string['timemodified'] = 'Heure modifiée';
+$string['uniquerows'] = 'Supprimer les lignes dupliquées';
+$string['uniquerows_help'] = 'Si la source du rapport contient des lignes dupliquées, celles-ci devraient-elles être retirées de ce rapport? Ce paramètre n\'a aucun effet si les colonnes de déclaration sont agrégées.';
+$string['userany'] = 'Tout utilisateur';
+$string['usercurrent'] = 'Utilisateur actuel';
+$string['userfullnamewithlink'] = 'Nom complet avec lien';
+$string['userfullnamewithpicture'] = 'Nom complet avec image';
+$string['userfullnamewithpicturelink'] = 'Nom complet avec image et lien';
+$string['usermodified'] = 'Modifié par';
+$string['userpicture'] = 'Image utilisateur';
+$string['userselect'] = 'Sélectionner l\' utilisateur';
+$string['viewreport'] = 'Voir le rapport';
+
+// Deprecated since Moodle 4.4.
+$string['filterdurationunit'] = '{$a} unité';
+
+// Deprecated since Moodle 4.5.
+$string['filterdatefrom'] = 'Date';
+$string['filterdateto'] = 'À ce jour';
