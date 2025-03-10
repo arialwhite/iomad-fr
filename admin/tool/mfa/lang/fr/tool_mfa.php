@@ -47,7 +47,7 @@ $string['error:factornotenabled'] = 'Facteur d\'authentification multifacteur \'
 $string['error:factornotfound'] = 'Facteur d\'authentification multifacteur \'{$a}\' not found';
 $string['error:isguestuser'] = 'Les invités ne sont pas autorisés ici.';
 $string['error:notenoughfactors'] = 'Impossible d\'authentifier';
-$string['error:reauth'] = 'Nous pourrions...'t confirm your identity sufficiently to meet the site authentication security policy.<br>This may be due to: <br> 1) Steps being locked - please wait a few minutes and try again.
+$string['error:reauth'] = 'Nous pourrions...\'t confirm your identity sufficiently to meet the site authentication security policy.<br>This may be due to: <br> 1) Steps being locked - please wait a few minutes and try again.
      <br> 2) Steps being failed - please double check the details for each step. <br> 3) Steps were skipped - please reload this page or try logging in again.';
 $string['error:revoke'] = 'Peut\'t remove factor';
 $string['error:setupfactor'] = 'Peut\'t set up factor';

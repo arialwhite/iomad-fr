@@ -67,7 +67,7 @@ $string['privacy:metadata:core_notes:lastmodified'] = 'La dernière date/heure m
 $string['privacy:metadata:core_notes:publishstate'] = 'L\'état de publication de la note.';
 $string['privacy:metadata:core_notes:userid'] = 'L\'ID de l\'utilisateur associé à la note';
 $string['publishstate'] = 'Contexte';
-$string['publishstate_help'] = 'Une note's context determines who can see the note in everyday use. Users should be aware that all notes, including personal ones, may be disclosed under the laws of their jurisdictions.
+$string['publishstate_help'] = 'Une note\'s context determines who can see the note in everyday use. Users should be aware that all notes, including personal ones, may be disclosed under the laws of their jurisdictions.
 
 * Personal - The note will be visible only to you
 * Course - The note will be visible to teachers in this course

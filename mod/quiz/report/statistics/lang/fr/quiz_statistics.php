@@ -79,7 +79,7 @@ $string['minimumfacility'] = 'Établissement minimal';
 $string['modelresponse'] = 'Réponse du modèle';
 $string['nameforvariant'] = 'Variante {$a->variante} de {$a->nom}';
 $string['negcovar'] = 'Covariance négative de la classe avec la classe de tentative totale';
-$string['negcovar_help'] = 'Cette question's grade for this set of attempts on the quiz varies in an opposite way to the overall attempt grade. This means overall attempt grade tends to be below average when the grade for this question is above average and vice-versa.
+$string['negcovar_help'] = 'Cette question\'s grade for this set of attempts on the quiz varies in an opposite way to the overall attempt grade. This means overall attempt grade tends to be below average when the grade for this question is above average and vice-versa.
 
 Our equation for effective question weight cannot be calculated in this case. The calculations for effective question weight for other questions in this quiz are the effective question weight for these questions if the highlighted questions with a negative covariance are given a maximum grade of zero.
 

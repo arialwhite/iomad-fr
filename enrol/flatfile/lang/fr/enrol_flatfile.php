@@ -54,7 +54,7 @@ where:
 * endtime - end time (in seconds since epoch) - optional
 
 It could look something like this:
-<pre class="boîte d'information">
+<pre class="boîte d\'information">
    add, student, 5, CF101
    add, teacher, 6, CF101
    add, teacheredit, 7, CF101

@@ -72,7 +72,7 @@ $string['assignmentduedigesthtml'] = '<p>Hi {$a->firstname},</p>
 {$a->digest}';
 $string['assignmentduedigestitem'] = '<strong>{$a->assignmentname}</strong> in course {$a->coursename}<br/>
 <strong>Due: {$a->duetime}</strong><br/>
-<a href="[$a->url]" aria-label="Allez dans {$a->nom d'attribution}">Go to activity</a>';
+<a href="[$a->url]" aria-label="Allez dans {$a->nom d\'attribution}">Go to activity</a>';
 $string['assignmentduedigestsubject'] = 'Vous avez des affectations en 7 jours';
 $string['assignmentduesoonhtml'] = '<p>Hi {$a->firstname},</p>
 <p>The assignment <strong>{$a->assignmentname}</strong> in course {$a->coursename} is due soon.</p>

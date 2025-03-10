@@ -66,7 +66,7 @@ $string['pluginname_desc'] = 'Cette méthode va à plusieurs reprises vérifier 
 $string['processphoto'] = 'Ajouter les données photo de l\'utilisateur au profil';
 $string['processphotowarning'] = 'Avertissement : Le traitement des images est susceptible d\'ajouter un fardeau important au serveur. Il est recommandé de ne pas activer cette option si un grand nombre d\'étudiants sont censés être traités.';
 $string['restricttarget'] = 'Ne traiter que les données si la cible suivante est spécifiée';
-$string['restricttarget_desc'] = 'Un fichier de données IMS Enterprise pourrait être destiné à plusieurs "cibles" - différents LMS, ou différents systèmes au sein d\'une école/université. C\'est...'s possible to specify in the Enterprise file that the data is intended for one or more named target systems, by naming them in <target> tags contained within the <properties> tag.
+$string['restricttarget_desc'] = 'Un fichier de données IMS Enterprise pourrait être destiné à plusieurs "cibles" - différents LMS, ou différents systèmes au sein d\'une école/université. C\'est...\'s possible to specify in the Enterprise file that the data is intended for one or more named target systems, by naming them in <target> tags contained within the <properties> tag.
 
 In general you don\'t need to worry about this. Leave the setting blank and Moodle will always process the data file, no matter whether a target is specified or not. Otherwise, fill in the exact name that will be output inside the <target> tag.';
 $string['settingfullname'] = 'IMS description tag pour le nom complet du cours';
