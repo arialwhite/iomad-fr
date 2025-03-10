@@ -69,9 +69,9 @@ $string['databasetypehead'] = 'Choisir le pilote de base de données';
 $string['databasetypesub'] = 'Moodle prend en charge plusieurs types de serveurs de base de données. Veuillez contacter l\'administrateur du serveur si vous ne savez pas quel type utiliser.';
 $string['databaseuser'] = 'Utilisateur de la base de données';
 $string['dataroot'] = 'Répertoire de données';
-$string['datarooterror'] = 'Les'data directory\' you specified could not be found or created.  Either correct the path or create that directory manually.';
+$string['datarooterror'] = 'Les\'data directory\' you specified could not be found or created.  Either correct the path or create that directory manually.';
 $string['datarootpermission'] = 'Autorisation des répertoires de données';
-$string['datarootpublicerror'] = 'Les'data directory\' you specified is directly accessible via web, you must use different directory.';
+$string['datarootpublicerror'] = 'Les\'data directory\' you specified is directly accessible via web, you must use different directory.';
 $string['dbconnectionerror'] = 'Nous ne pouvions pas nous connecter à la base de données que vous avez spécifiée. Veuillez vérifier les paramètres de votre base de données.';
 $string['dbcreationerror'] = 'Erreur de création de base de données. Impossible de créer le nom de la base de données avec les paramètres fournis';
 $string['dbhost'] = 'Serveur hôte';
@@ -115,7 +115,7 @@ directory must be readable AND WRITEABLE by the web server user
 (usually \'nobody\' or \'apache\'), but it must not be accessible
 directly via the web. The installer will try to create it if doesn\'t exist.';
 $string['dirroot'] = 'Répertoire Moodle';
-$string['dirrooterror'] = 'Les'Moodle directory\' setting seems to be incorrect - we can\'t find a Moodle installation there. The value below has been reset.';
+$string['dirrooterror'] = 'Les\'Moodle directory\' setting seems to be incorrect - we can\'t find a Moodle installation there. The value below has been reset.';
 $string['download'] = 'Télécharger';
 $string['downloadlanguagebutton'] = 'Téléchargez le pack linguistique &quot;{$a}&quot;';
 $string['downloadlanguagehead'] = 'Télécharger le paquet de langues';
@@ -254,4 +254,4 @@ $string['welcomep60'] = 'The following pages will lead you through some easy to 
     settings or, optionally, amend them to suit your own needs.';
 $string['welcomep70'] = 'Cliquez sur le bouton « Suivant » ci-dessous pour continuer avec la configuration de <strong>Moodle</strong>.';
 $string['wwwroot'] = 'Adresse Web';
-$string['wwwrooterror'] = 'Les'Web Address\' does not appear to be valid - this Moodle installation doesn\'t appear to be there. The value below has been reset.';
+$string['wwwrooterror'] = 'Les\'Web Address\' does not appear to be valid - this Moodle installation doesn\'t appear to be there. The value below has been reset.';

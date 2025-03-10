@@ -24,7 +24,7 @@
 
 $string['auth_mnet_auto_add_remote_users'] = 'Une fois défini à Oui, un enregistrement utilisateur local est créé automatiquement lorsqu\'un utilisateur distant se connecte pour la première fois.';
 $string['auth_mnetdescription'] = 'Les utilisateurs sont authentifiés selon le web de confiance défini dans les paramètres de votre réseau Moodle.';
-$string['auth_mnet_roamin'] = 'Ces hôtes's users can roam in to your site';
+$string['auth_mnet_roamin'] = 'Ces hôtes\'s users can roam in to your site';
 $string['auth_mnet_roamout'] = 'Vos utilisateurs peuvent se déplacer vers ces hôtes';
 $string['auth_mnet_rpc_negotiation_timeout'] = 'Le délai en secondes pour l\'authentification sur le transport XMLRPC.';
 $string['auto_add_remote_users'] = 'Ajout automatique des utilisateurs distants';
@@ -54,7 +54,7 @@ $string['privacy:metadata:mnet_external:firstname'] = 'Le prénom de l\'utilisat
 $string['privacy:metadata:mnet_external:firstnamephonetic'] = 'Les détails phonétiques sur l\'utilisateur\'s first name.';
 $string['privacy:metadata:mnet_external:id'] = 'L\'ID de l\'utilisateur';
 $string['privacy:metadata:mnet_external:idnumber'] = 'Un numéro d\'identification donné par l\'établissement';
-$string['privacy:metadata:mnet_external:imagealt'] = 'Texte alternatif pour l\'utilisateur's image.';
+$string['privacy:metadata:mnet_external:imagealt'] = 'Texte alternatif pour l\'utilisateur\'s image.';
 $string['privacy:metadata:mnet_external:institution'] = 'L\'institution dont cet utilisateur est membre.';
 $string['privacy:metadata:mnet_external:lang'] = 'Une préférence de l\'utilisateur pour la langue affichée.';
 $string['privacy:metadata:mnet_external:lastaccess'] = 'La dernière fois que l\'utilisateur a accédé au site.';

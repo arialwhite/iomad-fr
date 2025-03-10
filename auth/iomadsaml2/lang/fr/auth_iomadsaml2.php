@@ -51,7 +51,7 @@ $string['checkcertificateexpiry'] = 'Expiration du certificat SAML';
 $string['checkcertificateexpired'] = 'Le certificat SAML a expiré depuis {$a}';
 $string['checkcertificatewarn'] = 'Le certificat SAML expire dans {$a}';
 $string['checkcertificateok'] = 'Le certificat SAML expire dans {$a}';
-$string['certificate_help'] = 'Régénérer la clé privée et le certificat utilisés par ce SP.'{$a}\'>View SP certificate</a>';
+$string['certificate_help'] = 'Régénérer la clé privée et le certificat utilisés par ce SP.\'{$a}\'>View SP certificate</a>';
 $string['certificatelock_help'] = 'Le verrouillage des certificats les empêchera d\'être écrasés une fois générés.';
 $string['certificatelock'] = 'Certificat de verrouillage';
 $string['certificatelock_locked'] = 'Le certificat est verrouillé';
@@ -63,7 +63,7 @@ $string['certificate'] = 'Certificat de régénération';
 $string['commonname'] = 'Nom usuel';
 $string['countryname'] = 'Pays';
 $string['debug'] = 'Déboguement';
-$string['debug_help'] = '<p> Cela ajoute un débogage supplémentaire au log moodle normal.'{$a}\'>View SSP config</a></p>';
+$string['debug_help'] = '<p> Cela ajoute un débogage supplémentaire au log moodle normal.\'{$a}\'>View SSP config</a></p>';
 $string['duallogin'] = 'Double connexion';
 $string['duallogin_help'] = '
 <p>If on, then users will see both manual and a SAML login button. If off they will always be taken directly to the IdP login page.</p>
@@ -72,7 +72,7 @@ $string['duallogin_help'] = '
 <p>If on, then external pages can deep link into moodle using saml eg /course/view.php?id=45&saml=on</p>
 <p>If set to test IdP connection, the network will be checked for connectivity, and if functional, SAML login will be initiated.</p>';
 $string['emailtaken'] = 'Peut\'t create a new account, because {$a} email address is already registered';
-$string['emailtakenupdate'] = 'Votre email était't updated, because email address {$a} is already registered';
+$string['emailtakenupdate'] = 'Votre email était\'t updated, because email address {$a} is already registered';
 $string['errorinvalidautologin'] = 'Demande d\'enregistrement automatique non valide';
 $string['errorparsingxml'] = 'Erreur d\'analyse XML : {$a}';
 $string['exception'] = 'Exception SAML2: {$a}';

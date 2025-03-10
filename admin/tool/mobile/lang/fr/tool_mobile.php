@@ -23,7 +23,7 @@
  */
 
 $string['adodbdebugwarning'] = 'Le débogage ADOdb est activé. Il devrait être désactivé dans les paramètres externes d\'authentification de la base de données ou de plugin externe d\'inscription de la base de données.';
-$string['androidappid'] = 'Application pour Android's unique identifier';
+$string['androidappid'] = 'Application pour Android\'s unique identifier';
 $string['androidappid_desc'] = 'Ce paramètre peut être laissé par défaut à moins que vous ayez une application Android personnalisée.';
 $string['apppolicy'] = 'URL de la politique de l\'application';
 $string['apppolicy_help'] = 'L\'URL d\'une politique pour les utilisateurs de l\'application qui est listée sur la page À propos de l\'application. Si le champ est laissé vide, l\'URL de la politique du site sera utilisée à la place.';
@@ -85,7 +85,7 @@ $string['invalidcertificateexpiredatewarning'] = 'Il semble que le certificat HT
 $string['invalidcertificatestartdatewarning'] = 'Il semble que le certificat HTTPS pour le site n\'est pas encore valide (avec une date de début dans le futur).';
 $string['invalidprivatetoken'] = 'Jeton privé invalide. Le jeton ne doit pas être vide ou passé via le paramètre GET.';
 $string['invaliduserquotawarning'] = 'Le quota d\'utilisateur (userquota) est fixé à un nombre non valide. Il doit être défini à un nombre valide (une valeur entière) dans les paramètres de sécurité du site.';
-$string['iosappid'] = 'Appli iOS's unique identifier';
+$string['iosappid'] = 'Appli iOS\'s unique identifier';
 $string['iosappid_desc'] = 'Ce paramètre peut être laissé par défaut sauf si vous avez une application iOS personnalisée.';
 $string['launchviasiteinbrowser'] = 'Lancer via le site dans le navigateur système';
 $string['loginintheapp'] = 'Via l\'application';
@@ -152,7 +152,7 @@ $string['typeoflogin'] = 'Type de connexion';
 $string['typeoflogin_desc'] = 'Si le site utilise une méthode d\'authentification SSO, alors sélectionnez via une fenêtre de navigateur ou via un navigateur intégré. Un navigateur intégré fournit une meilleure expérience utilisateur, bien qu\'il ne\'t work with all SSO plugins.';
 $string['getmoodleonyourmobile'] = 'Obtenez l\'application mobile';
 $string['privacy:metadata:preference:tool_mobile_autologin_request_last'] = 'La date de la dernière demande de clé de connexion automatique. Entre chaque demande 6 minutes sont nécessaires.';
-$string['privacy:metadata:core_userkey'] = 'Utilisateur's keys used to create auto-login key for the current user.';
+$string['privacy:metadata:core_userkey'] = 'Utilisateur\'s keys used to create auto-login key for the current user.';
 $string['responsivemainmenuitems'] = 'Éléments de menu sensibles';
 $string['switchaccount'] = 'Changer de compte';
 $string['viewqrcode'] = 'Afficher le code QR';

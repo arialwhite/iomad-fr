@@ -151,7 +151,7 @@ $string['noclassbeforeformats'] = 'Vous devez définir la classe callback avant 
 $string['nocommonformats'] = 'Aucun format commun entre un plugin de portefeuille disponible et l\'emplacement de l\'appel {$a->location} (appel pris en charge {$a->formats})';
 $string['noinstanceyet'] = 'Non encore sélectionné';
 $string['nologs'] = 'Il n\'y a pas de journaux à afficher !';
-$string['nomultipleexports'] = 'Désolé, mais la destination du portfolio ({$a->plugin}) ne fonctionne pas.'t support multiple exports at the same time. Please <a href="{$a->lien}">finish the current one first</a> and try again';
+$string['nomultipleexports'] = 'Désolé, mais la destination du portfolio ({$a->plugin}) ne fonctionne pas.\'t support multiple exports at the same time. Please <a href="{$a->lien}">finish the current one first</a> and try again';
 $string['nonprimative'] = 'Une valeur non primitive a été passée comme argument de callback à portfolio_add_bouton. Refuser de continuer. La clé était {$a->key} et la valeur était {$a->value}';
 $string['nopermissions'] = 'Désolé, mais vous n\'avez pas les permissions nécessaires pour exporter des fichiers de cette zone';
 $string['notexportable'] = 'Désolé, mais le type de contenu que vous essayez d\'exporter n\'est pas exportable.';

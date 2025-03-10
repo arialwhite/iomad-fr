@@ -178,7 +178,7 @@ $string['configallowcategorythemes'] = 'Si vous activez cela, les thèmes peuven
 $string['configallowcohortthemes'] = 'Si vous l\'activez, les thèmes peuvent être définis au niveau de la cohorte. Cela touchera tous les utilisateurs avec une seule cohorte ou plus d\'une, mais avec le même thème.';
 $string['configallowcoursethemes'] = 'Si activé, les cours seront autorisés à définir leurs propres thèmes. Les thèmes de cours dépassent tous les autres choix de thèmes (site, utilisateur, catégorie, cohorte ou URL).';
 $string['configallowedemaildomains'] = 'Listez les domaines d\'email qui sont autorisés à être divulgués dans la section "De" de l\'email sortant. Par défaut, "Empty" utilisera l\'adresse sans réponse pour tous les courriels sortants. L\'utilisation de wildcards est autorisée, par exemple *.example.com permettra les courriels envoyés depuis n\'importe quel sous-domaine de example.com, mais pas example.com lui-même. Cela nécessitera une entrée séparée.';
-$string['configallowemailaddresses'] = 'Pour limiter les nouvelles adresses email à des domaines particuliers, listez-les ici séparés par des espaces. Tous les autres domaines seront rejetés. Pour autoriser les sous-domaines, ajouter le domaine avec un \ précédent'.\'. To allow a root domain together with its subdomains, add the domain twice - once with a preceding \'.\' and once without e.g. .ourcollege.edu.au ourcollege.edu.au.';
+$string['configallowemailaddresses'] = 'Pour limiter les nouvelles adresses email à des domaines particuliers, listez-les ici séparés par des espaces. Tous les autres domaines seront rejetés. Pour autoriser les sous-domaines, ajouter le domaine avec un \ précédent\'.\'. To allow a root domain together with its subdomains, add the domain twice - once with a preceding \'.\' and once without e.g. .ourcollege.edu.au ourcollege.edu.au.';
 $string['configallowemojipicker'] = 'Le sélecteur d\'emoji permet aux utilisateurs de sélectionner des emojis, comme des smilies, pour ajouter des messages et d\'autres zones de texte via un bouton de sélecteur d\'emoji dans la barre d\'outils Atto.';
 $string['configallowemojipickerincompatible'] = 'Votre configuration actuelle de base de données ne supporte pas correctement les emojis. Pour activer l\'emoji, vous devrez <a href="https://docs.moodle.org/fr/MySQL_full_unicode_support"> améliorer votre base de données pour un support unicode complet</a>.';
 $string['configallowguestmymoodle'] = 'Si activé, vous pouvez accéder au tableau de bord. Sinon les clients sont redirigés vers le site à la maison.';
@@ -236,7 +236,7 @@ $string['configdefaultrequestedcategory'] = 'Catégorie par défaut pour mettre 
 $string['configdefaultuserroleid'] = 'Tous les utilisateurs connectés recevront les capacités du rôle que vous spécifiez ici, au niveau du site, en ADDITION à tout autre rôle qu\'ils auront pu avoir. La valeur par défaut est le rôle utilisateur authentifié. Notez que cela ne sera pas en conflit avec d\'autres rôles qu\'ils ont à moins que vous interdisiez des capacités, il suffit de s\'assurer que tous les utilisateurs ont des capacités qui ne sont pas assignables au niveau du cours (par exemple post entrées de blog, gérer son propre calendrier, etc).';
 $string['configdeleteincompleteusers'] = 'Après cette période, tout compte sans prénom, nom ou champ de courriel rempli est supprimé.';
 $string['configdeleteunconfirmed'] = 'Pour certaines méthodes d\'authentification, comme l\'auto-enregistrement par courriel, les utilisateurs doivent confirmer leur compte dans un certain délai. Après cette période, tout ancien compte non confirmé est supprimé.';
-$string['configdenyemailaddresses'] = 'Pour refuser les adresses email de domaines particuliers les listent ici de la même manière. Tous les autres domaines seront acceptés. Pour refuser les sous-domaines ajouter le domaine avec un \ précédent'.\'. eg <strong>hotmail.com yahoo.co.uk .live.com</strong>';
+$string['configdenyemailaddresses'] = 'Pour refuser les adresses email de domaines particuliers les listent ici de la même manière. Tous les autres domaines seront acceptés. Pour refuser les sous-domaines ajouter le domaine avec un \ précédent\'.\'. eg <strong>hotmail.com yahoo.co.uk .live.com</strong>';
 $string['configenableanalytics'] = 'Modèles analytiques, tels que \'Students at risk of dropping out\' or \'Upcoming activities due\', can generate predictions, send insight notifications and offer further actions such as messaging users.';
 $string['configenableblogs'] = 'Ce commutateur fournit à tous les utilisateurs du site leur propre blog.';
 $string['configdisableuserimages'] = 'Désactiver la possibilité pour les utilisateurs de modifier les images de profil utilisateur.';
@@ -284,7 +284,7 @@ $string['configfrontpageloggedin'] = 'Les éléments sélectionnés ci-dessus se
 $string['configfullnamedisplay'] = 'This defines how names are shown when they are displayed in full. The default value, "language", leaves it to the string "fullnamedisplay" in the current language pack to decide. Some languages have different name display conventions.
 
 For most mono-lingual sites the most efficient setting is "firstname lastname", but you may choose to hide last names altogether. Placeholders that can be used are: firstname, lastname, firstnamephonetic, lastnamephonetic, middlename, and alternatename.';
-$string['configgeoipfile'] = 'Emplacement de GeoIP Fichier de données binaires ville. Ce fichier ne fait pas partie de la distribution de Moodle et doit être obtenu séparément de <a href="https://www.maxmind.com/"> MaxMind</a>. Vous pouvez soit acheter une version commerciale ou utiliser la version gratuite. Vous...'ll need to register to download the City database file, which you can do at <a href="https://dev.maxmind.com/geoip/geoip2/geolite2/" >https://dev.maxmind.com/geoip/geoip2/geolite2/</a>. Once you\'ve registered and downloaded the file, extract it into "{$a}" directory on your server.';
+$string['configgeoipfile'] = 'Emplacement de GeoIP Fichier de données binaires ville. Ce fichier ne fait pas partie de la distribution de Moodle et doit être obtenu séparément de <a href="https://www.maxmind.com/"> MaxMind</a>. Vous pouvez soit acheter une version commerciale ou utiliser la version gratuite. Vous...\'ll need to register to download the City database file, which you can do at <a href="https://dev.maxmind.com/geoip/geoip2/geolite2/" >https://dev.maxmind.com/geoip/geoip2/geolite2/</a>. Once you\'ve registered and downloaded the file, extract it into "{$a}" directory on your server.';
 $string['configgetremoteaddrconf'] = 'Si votre serveur est derrière un proxy inversé, vous pouvez utiliser ce paramètre pour spécifier quels en-têtes HTTP peuvent être fiables pour contenir l\'adresse IP distante. Les en-têtes sont lus dans l\'ordre, en utilisant le premier qui est disponible.';
 $string['configgradebookroles'] = 'Ce réglage vous permet de contrôler qui apparaît sur le classebook. Les utilisateurs doivent avoir au moins l\'un de ces rôles dans un cours à afficher dans le manuel de notes pour ce cours.';
 $string['configgradeexport'] = 'Choisissez quels formats d\'exportation de classebook sont vos principales méthodes d\'exportation des grades. Les plugins choisis définiront et utiliseront un champ "dernier exporté" pour chaque grade. Par exemple, les documents exportés pourraient être identifiés comme étant « nouveaux » ou « mis à jour ». Si vous n\'êtes pas sûr de cela, laissez tout décoché.';
@@ -451,7 +451,7 @@ $string['courserequestspending'] = 'Demandes de cours en attente';
 $string['courses'] = 'Cours';
 $string['coursesperpage'] = 'Cours par page';
 $string['courseswithsummarieslimit'] = 'Cours avec limite de résumés';
-$string['creatornewroleid'] = 'Créateurs' role in new courses';
+$string['creatornewroleid'] = 'Créateurs\' role in new courses';
 $string['creatornewroleid_help'] = 'Si l\'utilisateur n\'a pas déjà la permission de gérer le nouveau cours, l\'utilisateur est automatiquement inscrit en utilisant ce rôle.';
 $string['cron'] = 'Cron';
 $string['cron_enabled'] = 'Activer cron';
@@ -1181,7 +1181,7 @@ $string['resetindentation_help'] = 'Cela supprimera toute indentation préalable
 $string['resetindentation'] = 'Réinitialisation du site';
 $string['resetindentationsuccess'] = 'Réinitialisation de l\'identification.';
 $string['restorecourse'] = 'Restaurer le cours';
-$string['restorernewroleid'] = 'Restaurateurs' role in courses';
+$string['restorernewroleid'] = 'Restaurateurs\' role in courses';
 $string['restorernewroleid_help'] = 'Si l\'utilisateur n\'a pas déjà la permission de gérer le cours nouvellement restauré, l\'utilisateur se voit attribuer automatiquement ce rôle et s\'inscrit si nécessaire. Sélectionnez « Aucun » si vous ne voulez pas que les restaurateurs puissent gérer chaque cours restauré.';
 $string['resultfilter'] = 'Filtrer par résultat';
 $string['reverseproxy'] = 'Proxy inversé';
@@ -1225,7 +1225,7 @@ $string['searchteacherroles'] = 'Rôles des enseignants';
 $string['searchteacherroles_desc'] = 'Sélectionnez tous les rôles qui font des utilisateurs avec le rangeur de rôle plus élevé dans les résultats de recherche.';
 $string['searchallavailablecoursesdesc'] = 'Si la recherche est effectuée uniquement dans les cours inscrits, les informations sur les cours (nom et résumé) et le contenu des cours ne seront recherchés que dans les cours auxquels l\'utilisateur est inscrit. Dans le cas contraire, l\'information sur les cours et le contenu des cours seront recherchés dans tous les cours auxquels l\'utilisateur peut accéder, tels que les cours avec accès aux invités.';
 $string['searchincludeallcourses'] = 'Inclure tous les cours visibles';
-$string['searchincludeallcourses_desc'] = 'Si activé, les résultats de la recherche comprendront des informations sur les cours (nom et résumé) qui sont visibles par l\'utilisateur, même s\'ils ne sont pas disponibles.'t have access to the course content.';
+$string['searchincludeallcourses_desc'] = 'Si activé, les résultats de la recherche comprendront des informations sur les cours (nom et résumé) qui sont visibles par l\'utilisateur, même s\'ils ne sont pas disponibles.\'t have access to the course content.';
 $string['searchalldeleted'] = 'Tous les contenus indexés ont été supprimés';
 $string['searchbannerenable'] = 'Afficher les informations de recherche';
 $string['searchbannerenable_desc'] = 'Si activé, le texte ci-dessous sera affiché en haut de l\'écran de recherche pour tous les utilisateurs. Ceci peut être utilisé pour informer les utilisateurs lorsque l\'entretien du moteur de recherche est effectué.';

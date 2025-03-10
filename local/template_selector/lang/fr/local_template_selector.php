@@ -41,5 +41,5 @@ $string['nomatchingtemplates'] = 'Aucun modèle ne correspond \'{$a}\'';
 $string['none'] = 'Aucune';
 $string['pluginname'] = 'Sélecteurs de modèles';
 $string['previouslyselectedtemplates'] = 'Modèles précédemment sélectionnés ne correspondant pas \'{$a}\'';
-$string['privacy:metadata'] = 'Les'Local IOMAD Template selectors\' plugin only shows data stored in other locations.';
+$string['privacy:metadata'] = 'Les\'Local IOMAD Template selectors\' plugin only shows data stored in other locations.';
 $string['search'] = 'Rechercher';

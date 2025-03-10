@@ -30,12 +30,12 @@ $string['email:greeting'] = 'Bonjour {$a} &#128075;';
 $string['email:ipinfo'] = 'Détails de la demande de connexion:';
 $string['email:link'] = 'lien de vérification';
 $string['email:loginlink'] = 'Ou, si vous\'re on the same device, use this {$a}.';
-$string['email:message'] = 'Ici.'s your verification code for {$a->sitename} ({$a->siteurl}).';
+$string['email:message'] = 'Ici.\'s your verification code for {$a->sitename} ({$a->siteurl}).';
 $string['email:originatingip'] = 'Cette demande de connexion a été faite à partir de \'{$a}\'';
-$string['email:revokelink'] = 'Si c\'était le cas't you, you can {$a}.';
+$string['email:revokelink'] = 'Si c\'était le cas\'t you, you can {$a}.';
 $string['email:revokesuccess'] = 'This code has been successfully revoked. All sessions for {$a} have been ended.
     Email will not be usable as a factor until account security has been verified.';
-$string['email:subject'] = 'Ici.'s your verification code';
+$string['email:subject'] = 'Ici.\'s your verification code';
 $string['email:stoploginlink'] = 'arrêter cette tentative de connexion';
 $string['email:uadescription'] = 'Identité du navigateur pour cette demande:';
 $string['email:validity'] = 'Le code ne peut être utilisé qu\'une seule fois et est valide pour {$a}.';

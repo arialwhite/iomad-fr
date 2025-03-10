@@ -24,7 +24,7 @@
 $string['report_emails:view'] = 'Consulter le rapport de courriel de l\'OIMAD';
 $string['report_emails:resend'] = 'Renvoyez les courriels de l\'OIMAD';
 $string['pluginname'] = 'Rapport de courriel sortant';
-$string['privacy:metadata'] = 'Les'Local IOMAD email report\' only shows data stored in other locations.';
+$string['privacy:metadata'] = 'Les\'Local IOMAD email report\' only shows data stored in other locations.';
 $string['sender'] = 'Expéditeur';
 $string['created'] = 'Date de création';
 $string['due'] = 'Date d \' échéance';

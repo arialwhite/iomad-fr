@@ -110,7 +110,7 @@ $string['backpackconnectionunexpectedresult'] = 'Il y avait un problème de conn
 $string['backpackconnectionunexpectedmessage'] = 'Le sac à dos a retourné l\'erreur : « {$a} ».';
 $string['backpackdetails'] = 'Paramètres du sac à dos';
 $string['backpackdisconnected'] = 'Le sac est déconnecté';
-$string['backpackemail_required'] = 'Adresse électronique't be blank';
+$string['backpackemail_required'] = 'Adresse électronique\'t be blank';
 $string['backpackemailverificationpending'] = 'Vérification en cours';
 $string['backpackemailverifyemailbody'] = 'Hi {$a->userfirstname},
 
@@ -131,7 +131,7 @@ For any extra help, please contact your site support,
 {$a->admin}';
 $string['backpackemailverifyemailsubject'] = '{$a}: Vérification des emails de sac à dos Badges';
 $string['backpackemailverifypending'] = 'Nous avons envoyé un courriel à <strong>{$a}</strong>. Cliquez sur le lien de vérification dans l\'email pour activer votre connexion sac à dos.';
-$string['backpackemailverifysuccess'] = 'Vous...'re now connected to your backpack.';
+$string['backpackemailverifysuccess'] = 'Vous...\'re now connected to your backpack.';
 $string['backpackemailverifytokenmismatch'] = 'Le jeton dans le lien que vous avez cliqué ne correspond pas au jeton stocké. Assurez-vous de cliquer sur le lien dans le dernier courriel que vous avez reçu.';
 $string['backpackexporterror'] = 'Peut\'t export the badge to backpack';
 $string['backpackexporterrorwithinfo'] = 'Peut\'t export the badge "{$a->badgename}" to backpack. Error: {$a->error}';
@@ -367,11 +367,11 @@ $string['hidden'] = 'Caché';
 $string['hiddenbadge'] = 'Malheureusement, le propriétaire du badge n\'a pas rendu cette information disponible.';
 $string['hostedurl'] = 'URL externe';
 $string['hostedurldescription'] = 'URL externe où le badge est hébergé';
-$string['imageauthoremail'] = 'Auteur de l\'image's email';
+$string['imageauthoremail'] = 'Auteur de l\'image\'s email';
 $string['imageauthoremail_help'] = 'Si spécifié, l\'adresse électronique de l\'auteur de l\'image du badge est affichée sur la page du badge.';
-$string['imageauthorname'] = 'Auteur de l\'image's name';
+$string['imageauthorname'] = 'Auteur de l\'image\'s name';
 $string['imageauthorname_help'] = 'Si spécifié, le nom de l\'auteur de l\'image du badge est affiché sur la page du badge.';
-$string['imageauthorurl'] = 'Auteur de l\'image's URL';
+$string['imageauthorurl'] = 'Auteur de l\'image\'s URL';
 $string['imageauthorurl_help'] = 'Si spécifié, un lien vers l\'image de badge auteur\'s website is displayed on the badge page. The URL should have a prefix http:// or https://.';
 $string['invalidurl'] = 'URL non valide';
 $string['issuancedetails'] = 'Durée de l\'insigne';

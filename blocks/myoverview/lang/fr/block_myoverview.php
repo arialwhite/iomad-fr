@@ -88,7 +88,7 @@ $string['sortbylastaccessed'] = 'Tri par la dernière consultation';
 $string['sortbyshortname'] = 'Tri par nom abrégé';
 $string['privacy:request:preference:set'] = 'La valeur du paramètre \'{$a->name}\' was \'{$a->value}\'';
 $string['viewquickstart'] = 'Afficher le guide de démarrage rapide';
-$string['zero_default_title'] = 'Vous...'re not enrolled in any courses.';
+$string['zero_default_title'] = 'Vous...\'re not enrolled in any courses.';
 $string['zero_default_intro'] = 'Une fois que vous\'re enrolled in a course, it will appear here.';
 $string['zero_nocourses_intro'] = 'Besoin d\'aide pour commencer? Consultez la cible <a href="{$a->dochref}" title="{$a->doctitle}" Moodle documentation</a>.';
 $string['zero_nocourses_title'] = 'Créez votre premier cours';

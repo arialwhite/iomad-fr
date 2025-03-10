@@ -32,4 +32,4 @@ $string['requires_company'] = 'Vous devez appartenir à <strong>{$a}</strong>';
 $string['requires_notanycompany'] = 'Vous n\'appartenez à aucune entreprise';
 $string['requires_notcompany'] = 'Vous n\'appartenez pas à <strong>{$a}</strong>';
 $string['title'] = 'Société';
-$string['privacy:metadata'] = 'Les'Restriction by company\' plugin does not store any personal data.';
+$string['privacy:metadata'] = 'Les\'Restriction by company\' plugin does not store any personal data.';

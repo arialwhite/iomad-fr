@@ -57,7 +57,7 @@ $string['endpointltiversionnotice'] = 'Les paramètres d\'outil ci-dessous sont 
 $string['enrolenddate'] = 'Date de fin';
 $string['enrolenddate_help'] = 'Si activé, les utilisateurs peuvent accéder jusqu\'à cette date seulement.';
 $string['enrolenddateerror'] = 'La date de fin d\'inscription ne peut être antérieure à la date de début';
-$string['enrolisdisabled'] = 'Les'Publish as LTI tool\' plugin is disabled.';
+$string['enrolisdisabled'] = 'Les\'Publish as LTI tool\' plugin is disabled.';
 $string['enrolltiversionincorrect'] = 'La ressource n\'est pas configurée pour être utilisée par rapport à l\'historique LTI (versions 1.1/2.0). Veuillez contacter l\'administrateur de cet outil.';
 $string['enrolperiod'] = 'Durée des inscriptions';
 $string['enrolperiod_help'] = 'Durée de validité de l\'inscription, à partir du moment où l\'utilisateur s\'inscrit du système distant. En cas de handicap, la durée de l\'inscription sera illimitée.';
@@ -126,7 +126,7 @@ $string['platformdetailsinfo'] = 'Once the tool has been set up in the platform,
 <li>For manual registrations, this information must be manually copied from the platform.</li>
 </ul>';
 $string['pluginname'] = 'Publier comme outil LTI';
-$string['pluginname_desc'] = 'Les'Publish as LTI tool\' plugin, together with the LTI authentication plugin, allows remote users to access selected courses and activities. In other words, Moodle functions as an LTI tool provider.';
+$string['pluginname_desc'] = 'Les\'Publish as LTI tool\' plugin, together with the LTI authentication plugin, allows remote users to access selected courses and activities. In other words, Moodle functions as an LTI tool provider.';
 $string['privacy:metadata:enrol_lti_users'] = 'La liste des utilisateurs inscrits via un fournisseur LTI';
 $string['privacy:metadata:enrol_lti_users:userid'] = 'L\'ID de l\'utilisateur';
 $string['privacy:metadata:enrol_lti_users:lastgrade'] = 'La dernière note de l\'utilisateur a été enregistrée';

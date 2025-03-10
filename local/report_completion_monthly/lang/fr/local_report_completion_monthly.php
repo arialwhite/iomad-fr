@@ -23,7 +23,7 @@
 
 $string['blocktitle'] = 'Rapport d\'achèvement par mois';
 $string['pluginname'] = 'Rapport d\'achèvement par mois';
-$string['privacy:metadata'] = 'Les'Local Completion report by month report\' only shows data stored in other locations.';
+$string['privacy:metadata'] = 'Les\'Local Completion report by month report\' only shows data stored in other locations.';
 $string['report_completion_monthly_title'] = 'Rapport d\'achèvement par mois';
 $string['report_completion_monthly:view'] = 'Afficher le \'Completion report by month\' report';
 $string['repuserlicallocation'] = 'Rapport d\'achèvement par mois';

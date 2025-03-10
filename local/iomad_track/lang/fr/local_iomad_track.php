@@ -22,7 +22,7 @@
  */
 
 $string['pluginname'] = 'Suivi de l \' achèvement des travaux de l \' OIMAD';
-$string['privacy:metadata'] = 'Les'Local IOMAD completion tracking\' plugin only shows data stored in other locations.';
+$string['privacy:metadata'] = 'Les\'Local IOMAD completion tracking\' plugin only shows data stored in other locations.';
 $string['privacy:metadata:local_iomad_track:id'] = 'Identification locale de la piste IOMAD';
 $string['privacy:metadata:local_iomad_track:courseid'] = 'ID du cours';
 $string['privacy:metadata:local_iomad_track:coursename'] = 'Nom du cours.';

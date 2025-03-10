@@ -32,4 +32,4 @@ $string['requires_trainingevent'] = 'Vous êtes inscrit à <strong>{$a}</strong>
 $string['requires_notanytrainingevent'] = 'Vous n\'êtes pas inscrit à un événement de formation';
 $string['requires_nottrainingevent'] = 'Vous n\'êtes pas inscrit à <strong>{$a}</strong>';
 $string['title'] = 'Manifestation de formation';
-$string['privacy:metadata'] = 'Les'Restriction by training event\' plugin does not store any personal data.';
+$string['privacy:metadata'] = 'Les\'Restriction by training event\' plugin does not store any personal data.';

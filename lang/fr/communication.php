@@ -24,7 +24,7 @@
 
 $string['communication'] = 'Communication';
 $string['communicationdisabled'] = 'La communication est désactivée.';
-$string['communicationprovidernotfound'] = 'Les'{$a}\' communication provider doesn\'t exist or is not recognised.';
+$string['communicationprovidernotfound'] = 'Les\'{$a}\' communication provider doesn\'t exist or is not recognised.';
 $string['communicationroomname'] = 'Nom de la chambre';
 $string['communicationroomnameinfo'] = 'Si le champ est laissé vide, le nom du cours est utilisé comme nom de chambre.';
 $string['communicationroompending'] = 'Votre chambre sera bientôt prête.';

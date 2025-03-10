@@ -81,6 +81,6 @@ $string['unenroluser'] = 'Voulez-vous vraiment désinscrire "{$a->user}" du cour
 $string['unenrolusers'] = 'Désinscription des utilisateurs';
 $string['wscannotenrol'] = 'L\'instance de greffon ne peut pas inscrire manuellement un utilisateur dans le cours id = {$a->courseid}';
 $string['wsnoinstance'] = 'L\'instance du plugin d\'inscription manuelle does\'t exist or is disabled for the course (id = {$a->courseid})';
-$string['wsusercannotassign'] = 'Vous faites't have the permission to assign this role ({$a->roleid}) to this user ({$a->userid}) in this course ({$a->courseid}).';
+$string['wsusercannotassign'] = 'Vous faites\'t have the permission to assign this role ({$a->roleid}) to this user ({$a->userid}) in this course ({$a->courseid}).';
 $string['manualpluginnotinstalled'] = 'Le plugin "Manual" n\'a pas encore été installé';
 $string['privacy:metadata'] = 'Le plugin Inscriptions manuelles ne stocke aucune donnée personnelle.';

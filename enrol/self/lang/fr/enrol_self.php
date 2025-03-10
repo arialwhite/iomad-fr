@@ -71,7 +71,7 @@ $string['groupkey_help'] = 'In addition to restricting access to the course to o
 Note: An enrolment key for the course must be specified in the self enrolment settings as well as group enrolment keys in the group settings.';
 $string['keyholder'] = 'Vous auriez dû recevoir cette clé d\'inscription :';
 $string['longtimenosee'] = 'Désenrol inactif après';
-$string['longtimenosee_help'] = 'Si les utilisateurs ont't accessed a course for a long time, then they are automatically unenrolled. This parameter specifies that time limit.';
+$string['longtimenosee_help'] = 'Si les utilisateurs ont\'t accessed a course for a long time, then they are automatically unenrolled. This parameter specifies that time limit.';
 $string['maxenrolled'] = 'Nombre maximum d\'utilisateurs inscrits';
 $string['maxenrolled_help'] = 'Spécifie le nombre maximum d\'utilisateurs qui peuvent s\'inscrire. 0 signifie aucune limite.';
 $string['maxenrolledreached'] = 'Le nombre maximal d\'utilisateurs autorisés à s\'inscrire a déjà été atteint.';
