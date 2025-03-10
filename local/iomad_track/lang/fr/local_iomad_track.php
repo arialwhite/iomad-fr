@@ -21,7 +21,7 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['pluginname'] = 'Suivi de l \' achèvement des travaux de l \' OIMAD';
+$string['pluginname'] = 'Suivi de l \' achèvement des travaux de l \' IOMAD';
 $string['privacy:metadata'] = 'Les\'Local IOMAD completion tracking\' plugin only shows data stored in other locations.';
 $string['privacy:metadata:local_iomad_track:id'] = 'Identification locale de la piste IOMAD';
 $string['privacy:metadata:local_iomad_track:courseid'] = 'ID du cours';
@@ -36,16 +36,16 @@ $string['privacy:metadata:local_iomad_track:licenseid'] = 'Numéro d\'identifica
 $string['privacy:metadata:local_iomad_track:licensename'] = 'Nom de la licence';
 $string['privacy:metadata:local_iomad_track:licenseallocated'] = 'Unix timestamp de la licence de temps a été attribué';
 $string['privacy:metadata:local_iomad_track:modifiedtime'] = 'Enregistrer l\'heure modifiée';
-$string['privacy:metadata:local_iomad_track'] = 'L\'OIMAD local suit les informations utilisateur';
+$string['privacy:metadata:local_iomad_track'] = 'L\'IOMAD local suit les informations utilisateur';
 $string['privacy:metadata:local_iomad_track_certs:id'] = 'Identification du certificat local IOMAD';
 $string['privacy:metadata:local_iomad_track_certs:trackid'] = 'Identification de la piste du certificat';
 $string['privacy:metadata:local_iomad_track_certs:filename'] = 'Nom du fichier du certificat';
 $string['privacy:metadata:local_iomad_track_certs'] = 'Informations locales sur le certificat de piste iomad';
-$string['fixtracklicensetask'] = 'OIMAD piste fixer les détails de suivi de licence tâche ad-hoc';
+$string['fixtracklicensetask'] = 'IOMAD piste fixer les détails de suivi de licence tâche ad-hoc';
 $string['iomad_track:importfrommoodle'] = 'Importer les informations d\'achèvement des tables Moodle';
 $string['importcompletionsfrommoodle'] = 'Importer les informations d\'achèvement stockées à partir des tables Moodle';
-$string['importcompletionsfrommoodlefull'] = 'Il s\'agira d\'importer toutes les informations relatives à l\'achèvement de Moodle dans les tableaux de l\'OIMAD.';
-$string['importcompletionsfrommoodlefullwitherrors'] = 'Cela va exécuter une tâche ad hoc pour importer SOME de l\'information d\'achèvement de Moodle aux tableaux de rapport de l\'OIMAD. Tous les cours n\'ont pas été complétés ou les critères établis et leurs informations seront manquées. Si vous voulez savoir quels cours ils sont, utilisez le lien de vérification sur la page précédente.';
+$string['importcompletionsfrommoodlefull'] = 'Il s\'agira d\'importer toutes les informations relatives à l\'achèvement de Moodle dans les tableaux de l\'IOMAD.';
+$string['importcompletionsfrommoodlefullwitherrors'] = 'Cela va exécuter une tâche ad hoc pour importer SOME de l\'information d\'achèvement de Moodle aux tableaux de rapport de l\'IOMAD. Tous les cours n\'ont pas été complétés ou les critères établis et leurs informations seront manquées. Si vous voulez savoir quels cours ils sont, utilisez le lien de vérification sur la page précédente.';
 $string['importmoodlecompletioninformation'] = 'Tâche ad-hoc d\'importer les informations d\'achèvement à partir des tables Moodle';
 $string['fixenrolleddatetask'] = 'Tâche ad-hoc de mettre à jour les informations d\'achèvement stockées pour utiliser l\'inscription \'timecreated\' timestamp where this is not already set.';
 $string['fixcourseclearedtask'] = 'Tâche ad-hoc pour mettre à jour le \'coursecleared\' field in the stored completion records';

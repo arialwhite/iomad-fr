@@ -21,10 +21,10 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['iomad_reports:addinstance'] = 'Ajouter un nouveau bloc Rapports de l\'OIMAD';
+$string['iomad_reports:addinstance'] = 'Ajouter un nouveau bloc Rapports de l\'IOMAD';
 $string['iomad_reports:myaddinstance'] = 'Ajouter un nouveau bloc de rapports IOMAD au tableau de bord des utilisateurs';
-$string['iomad_reports:view'] = 'Accès aux rapports de l\'OIMAD';
-$string['link'] = 'Aller au tableau de bord de l\'OIMAD';
+$string['iomad_reports:view'] = 'Accès aux rapports de l\'IOMAD';
+$string['link'] = 'Aller au tableau de bord de l\'IOMAD';
 $string['nocompanyselected'] = 'Aucune entreprise n\'est sélectionnée';
-$string['pluginname'] = 'OIMAD Rapports';
+$string['pluginname'] = 'IOMAD Rapports';
 $string['privacy:metadata'] = 'Le bloc de sélection de la société IOMAD n\'indique que les données stockées dans d\'autres emplacements.';

@@ -33,5 +33,5 @@ $string['iomad_html:addinstance'] = 'Ajouter un nouveau bloc HTML de l\'entrepri
 $string['iomad_html:myaddinstance'] = 'Ajouter un nouveau bloc HTML de l\'entreprise au tableau de bord';
 $string['leaveblanktohide'] = 'laisser en blanc pour cacher le titre';
 $string['newiomad_htmlblock'] = '(nouveau bloc HTML de la Société)';
-$string['pluginname'] = 'OIMAD HTML';
-$string['privacy:metadata'] = 'Le bloc HTML de l\'OIMAD affiche uniquement les données stockées dans d\'autres emplacements.';
+$string['pluginname'] = 'IOMAD HTML';
+$string['privacy:metadata'] = 'Le bloc HTML de l\'IOMAD affiche uniquement les données stockées dans d\'autres emplacements.';

@@ -26,11 +26,11 @@
 defined('MOODLE_INTERNAL') || die();
 
 // Raw SCSS setting.
-$string['choosereadme'] = 'OIMAD Bootstrap est un thème hautement personnalisable, basé sur Boost, avec une mise en page de navigation alternative. Ce thème est destiné à être utilisé directement, ou comme thème parent lors de la création ou de la mise à jour de thèmes personnalisés pour utiliser Bootstrap 4.';
-$string['configtitle'] = 'OIMAD Bootstrap';
+$string['choosereadme'] = 'IOMAD Bootstrap est un thème hautement personnalisable, basé sur Boost, avec une mise en page de navigation alternative. Ce thème est destiné à être utilisé directement, ou comme thème parent lors de la création ou de la mise à jour de thèmes personnalisés pour utiliser Bootstrap 4.';
+$string['configtitle'] = 'IOMAD Bootstrap';
 $string['navbardark'] = 'Utilisez un navbar de style sombre';
 $string['navbardarkdesc'] = 'Échanger le texte et les couleurs de fond pour la barre de navigation en haut de la page entre noir et clair.';
-$string['pluginname'] = 'OIMAD Bootstrap';
+$string['pluginname'] = 'IOMAD Bootstrap';
 $string['presetfiles'] = 'Autres fichiers prédéfinis par thème';
 $string['presetfiles_desc'] = 'Les fichiers prédéfinis peuvent être utilisés pour modifier considérablement l\'apparence du thème. Voir <a href="https://docs.moodle.org/dev/Boost_Presets">Boost presets</a> pour des informations sur la création et le partage de vos propres fichiers prédéfinis, et voir <a href="https://moodle.net/search?q=boost+presets"> Préréglage du dépôt</a> pour les préréglages que d\'autres ont partagés.';
 $string['preset'] = 'Thème prédéfini';

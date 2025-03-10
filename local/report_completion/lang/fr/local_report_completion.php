@@ -24,12 +24,12 @@
 $string['companies'] = 'Entreprises';
 $string['completed'] = 'Achevé';
 $string['course'] = 'Cours';
-$string['report_completion:view'] = 'Voir le cours Rapport d\'étape de l\'OIMAD';
+$string['report_completion:view'] = 'Voir le cours Rapport d\'étape de l\'IOMAD';
 $string['completion_course_title'] = 'Rapport d \' achèvement pour {$a}';
 $string['completiondate'] = 'Date d\'achèvement';
 $string['completionnotenabled'] = 'Le suivi de l\'achèvement n\'est pas activé pour ce cours (aucune donnée de rapport disponible)';
 $string['coursechart'] = 'Dessiner un tableau de bord pour le cours';
-$string['iomad_completion:view'] = 'Rapport d\'achèvement de l\'OIMAD';
+$string['iomad_completion:view'] = 'Rapport d\'achèvement de l\'IOMAD';
 $string['error'] = 'Erreur lors de la recherche du champ de profil personnalisé pour l\'entreprise';
 $string['inprogress'] = 'En cours';
 $string['name'] = 'Nom';

@@ -23,7 +23,7 @@
 
 $string['iomad_link:addinstance'] = 'Ajouter un nouveau bloc de lien de tableau de bord IOMAD';
 $string['iomad_link:myaddinstance'] = 'Ajouter un nouveau bloc de lien au tableau de bord des utilisateurs';
-$string['iomad_link:view'] = 'Afficher le lien vers le tableau de bord de l\'OIMAD';
-$string['link'] = 'Aller au tableau de bord de l\'OIMAD';
+$string['iomad_link:view'] = 'Afficher le lien vers le tableau de bord de l\'IOMAD';
+$string['link'] = 'Aller au tableau de bord de l\'IOMAD';
 $string['pluginname'] = 'IOMAD - Lien vers le tableau de bord';
-$string['privacy:metadata'] = 'Le bloc de liens du tableau de bord de l\'OIMAD n\'indique que les données stockées dans d\'autres endroits.';
+$string['privacy:metadata'] = 'Le bloc de liens du tableau de bord de l\'IOMAD n\'indique que les données stockées dans d\'autres endroits.';

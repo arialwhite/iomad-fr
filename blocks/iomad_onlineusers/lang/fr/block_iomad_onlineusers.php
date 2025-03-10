@@ -36,6 +36,6 @@ $string['iomad_onlineusers:viewlist'] = 'Voir la liste des utilisateurs en ligne
 $string['online_status:hide'] = 'Cacher mon statut en ligne aux autres utilisateurs';
 $string['online_status:show'] = 'Afficher mon statut en ligne aux autres utilisateurs';
 $string['periodnminutes'] = 'dernières minutes';
-$string['pluginname'] = 'OIMAD Utilisateurs en ligne';
+$string['pluginname'] = 'IOMAD Utilisateurs en ligne';
 $string['timetosee'] = 'Supprimer après inactivité (minutes)';
 $string['privacy:metadata:preference:uservisibility'] = 'Statut en ligne visible par d\'autres utilisateurs dans le bloc utilisateurs en ligne.';

@@ -26,18 +26,18 @@
  * Strings for component 'local_iomad_oidc_sync', language 'en'
  */
 
-$string['pluginname'] = 'Synchronisation OIDC de l\'OIMAD';
+$string['pluginname'] = 'Synchronisation OIDC de l\'IOMAD';
 $string['privacy:metadata'] = 'Le plugin de synchronisation OIDC IOMAD affiche uniquement les données stockées dans d\'autres emplacements.';
-$string['iomad_oidc_sync:view'] = 'Afficher l\'état de synchronisation de l\'OIDC de l\'OIMAD';
+$string['iomad_oidc_sync:view'] = 'Afficher l\'état de synchronisation de l\'OIDC de l\'IOMAD';
 $string['iomad_oidc_sync:manage'] = 'Gérer les paramètres de synchronisation OIDC IOMAD';
 $string['agreeconsent'] = 'Consentement';
 $string['approvalset'] = 'Approbation de la synchronisation OIDC IOMAD accordée avec succès';
 $string['configerror'] = 'Configuration non valide détectée.';
 $string['configlogs'] = 'Configurer les journaux';
-$string['consent_title'] = 'OIMAD OIDC accord de la société de synchronisation';
+$string['consent_title'] = 'IOMAD OIDC accord de la société de synchronisation';
 $string['consentlink'] = 'Soumettre le consentement avec Microsoft';
 $string['loglink'] = 'Afficher le journal de configuration';
-$string['oidc_sync_task'] = 'Tâche de synchronisation OIDC de l\'OIMAD';
+$string['oidc_sync_task'] = 'Tâche de synchronisation OIDC de l\'IOMAD';
 $string['boilerplate'] = 'Pour configurer les tâches de synchronisation OIDC, vous devez d\'abord fournir votre TENANTNAME ou GUID, puis cliquer sur le lien appoval. Une fois que vous avez approuvé, si la connexion ne s\'affiche pas en vert, cliquez sur la croix rouge pour vérifier.'; 
 $string['settenantnameorguid'] = 'Définir le nom du locataire ou GUID';
 $string['syncgroupid'] = 'ID de l\'objet optionnel du groupe à synchroniser';

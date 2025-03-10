@@ -25,7 +25,7 @@
 $string['explanation'] = 'Tool generates fake data for an IOMAD site. It can only be run by the administrator in Debugging mode. This 
     is only for test sites. It will completely destroy an existing site.';
 $string['doit'] = 'Très bien. Allez-y !';
-$string['makesite'] = 'Faire de l\'OIMAD un faux site de développement';
+$string['makesite'] = 'Faire de l\'IOMAD un faux site de développement';
 $string['notdebugging'] = 'Le mode de débogage du développeur est nécessaire pour exécuter cet outil';
 $string['pluginname'] = 'Générateur de données sur le développement';
 $string['privacy:metadata'] = 'L\'outil d\'administration du générateur de site IOMAD affiche uniquement les données stockées dans d\'autres endroits.';

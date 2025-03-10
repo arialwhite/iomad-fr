@@ -21,9 +21,9 @@
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['iomad_approve_access:addinstance'] = 'Ajouter un bloc d\'accès approuvé par l\'OIMAD';
+$string['iomad_approve_access:addinstance'] = 'Ajouter un bloc d\'accès approuvé par l\'IOMAD';
 $string['iomad_approve_access:approve'] = 'Approuver l\'accès à un utilisateur à une activité d\'approbation';
-$string['iomad_approve_access:myaddinstance'] = 'Ajouter un bloc d\'accès approuvé par l\'OIMAD à ma page moodle';
+$string['iomad_approve_access:myaddinstance'] = 'Ajouter un bloc d\'accès approuvé par l\'IOMAD à ma page moodle';
 
 $string['approvecourse'] = "Approuver la formation";
 $string['approveusers'] = 'Approuver les activités de formation';
@@ -42,7 +42,7 @@ $string['name'] = "Nom complet";
 $string['noonetoapprove'] = 'Aucun utilisateur à approuver';
 $string['notapproved'] = "Non approuvé";
 $string['pending'] = "Approbation en cours";
-$string['pluginname'] = 'L\'OIMAD approuve les activités de formation';
+$string['pluginname'] = 'L\'IOMAD approuve les activités de formation';
 $string['privacy:metadata'] = 'Les\'IOMAD Approve access\' block only shows data stored in other locations.';
 $string['privacy:metadata:block_iomad_approve_access:id'] = 'Id de la table {block_iomad_approve_access}';
 $string['privacy:metadata:block_iomad_approve_access:userid'] = 'identificateur de l\' utilisateur';
@@ -51,7 +51,7 @@ $string['privacy:metadata:block_iomad_approve_access:courseid'] = 'Nom du cours'
 $string['privacy:metadata:block_iomad_approve_access:activityid'] = 'Activité id';
 $string['privacy:metadata:block_iomad_approve_access:tm_ok'] = 'Le directeur de l\'entreprise approuve';
 $string['privacy:metadata:block_iomad_approve_access:manger_ok'] = 'Le gestionnaire du département approuve';
-$string['privacy:metadata:block_iomad_approve_access'] = 'Le gestionnaire de l\'OIMAD approuve le bloc d\'accès';
+$string['privacy:metadata:block_iomad_approve_access'] = 'Le gestionnaire de l\'IOMAD approuve le bloc d\'accès';
 $string['request_denied'] = 'Demande rejetée';
 $string['request_granted'] = 'Demande accordée';
 $string['request_raised'] = 'Demande formulée';

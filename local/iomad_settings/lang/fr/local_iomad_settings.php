@@ -21,13 +21,13 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['pluginname'] = 'OIMAD Paramètres';
+$string['pluginname'] = 'IOMAD Paramètres';
 $string['privacy:metadata'] = 'Le plugin de paramètres locaux IOMAD affiche uniquement les données stockées dans d\'autres emplacements.';
 $string['customtext2'] = 'Texte personnalisé 2';
 $string['customtext3'] = 'Texte personnalisé 3';
 $string['dateformat'] = 'Format de date';
 $string['emaildelay'] = 'Délai du courriel';
-$string['emaildelay_help'] = 'Tout email IOMAD aura cette valeur (en secondes) ajoutée au temps d\'envoi par défaut. Cela permet un retard par défaut dans l\'envoi, comme pour les messages forum, de tout e-mail OIMAD. Les horaires seront toujours touchés par la tâche cron local_mail, mais ce délai sera une valeur minimale.';
+$string['emaildelay_help'] = 'Tout email IOMAD aura cette valeur (en secondes) ajoutée au temps d\'envoi par défaut. Cela permet un retard par défaut dans l\'envoi, comme pour les messages forum, de tout e-mail IOMAD. Les horaires seront toujours touchés par la tâche cron local_mail, mais ce délai sera une valeur minimale.';
 $string['iomad_autoenrol_managers'] = 'S\'inscrire comme non-étudiants';
 $string['iomad_autoenrol_managers_help'] = 'Si cela n\'est pas pris, alors les comptes de gestionnaire ne seront pas inscrits comme les rôles d\'enseignant de l\'entreprise sur les cours d\'inscription manuelle.';
 $string['iomad_autoreallocate_licenses'] = 'Réallocation automatique de licence';
@@ -87,10 +87,10 @@ $string['iomad_sync_institution'] = 'Synchroniser le nom de l\'entreprise avec l
 $string['iomad_sync_institution_help'] = 'Sélectionner ceci gardera l\'utilisateur\'s institution profile field in sync with either the shortname or name of the company that the user is allocated to. If the user is in multiple companies, then this will show \'Multiple\' instead.';
 $string['iomad_use_email_as_username'] = 'Utiliser l\'adresse électronique comme nom d\'utilisateur';
 $string['iomad_use_email_as_username_help'] = 'Sélectionner ceci va changer la façon dont un utilisateur\'s username is automatically created for a new user account in IOMAD so that it simply uses their email address';
-$string['iomad_useicons'] = 'Utiliser des icônes dans le tableau de bord de l\'OIMAD';
+$string['iomad_useicons'] = 'Utiliser des icônes dans le tableau de bord de l\'IOMAD';
 $string['iomad_useicons_help'] = 'Sélectionner ceci modifie les icônes du tableau de bord pour utiliser des images au lieu de caractères impressionnants de police.';
 $string['iomad_showcompanydropdown'] = 'Afficher le commutateur d\'entreprise dans navbar';
-$string['iomad_showcompanydropdown_help'] = 'Le choix de cette option affiche le commutateur déroulant de l\'entreprise dans la barre de navigation lorsque l\'utilisateur peut accéder à plusieurs entreprises. Les utilisateurs auront besoin d\'un autre moyen d\'accéder au commutateur de l\'entreprise est celui-ci est désactivé et ils n\'ont pas accès au tableau de bord de l\'OIMAD dans leur entreprise actuelle.';
+$string['iomad_showcompanydropdown_help'] = 'Le choix de cette option affiche le commutateur déroulant de l\'entreprise dans la barre de navigation lorsque l\'utilisateur peut accéder à plusieurs entreprises. Les utilisateurs auront besoin d\'un autre moyen d\'accéder au commutateur de l\'entreprise est celui-ci est désactivé et ils n\'ont pas accès au tableau de bord de l\'IOMAD dans leur entreprise actuelle.';
 $string['reset_annually'] = 'Chaque année';
 $string['reset_daily'] = 'Tous les jours';
 $string['reset_never'] = 'Jamais';

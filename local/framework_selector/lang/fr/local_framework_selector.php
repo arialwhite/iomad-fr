@@ -41,5 +41,5 @@ $string['nomatchingframeworks'] = 'Aucun cadre ne correspond \'{$a}\'';
 $string['none'] = 'Aucune';
 $string['pluginname'] = 'Sélecteurs de cadres';
 $string['previouslyselectedframeworks'] = 'Les cadres précédemment sélectionnés ne correspondent pas \'{$a}\'';
-$string['privacy:metadata'] = 'L\'OIMAD Le plugin local framework sélecteur affiche uniquement les données stockées dans d\'autres emplacements.';
+$string['privacy:metadata'] = 'L\'IOMAD Le plugin local framework sélecteur affiche uniquement les données stockées dans d\'autres emplacements.';
 $string['search'] = 'Rechercher';

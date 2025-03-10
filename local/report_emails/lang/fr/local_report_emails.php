@@ -21,8 +21,8 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['report_emails:view'] = 'Consulter le rapport de courriel de l\'OIMAD';
-$string['report_emails:resend'] = 'Renvoyez les courriels de l\'OIMAD';
+$string['report_emails:view'] = 'Consulter le rapport de courriel de l\'IOMAD';
+$string['report_emails:resend'] = 'Renvoyez les courriels de l\'IOMAD';
 $string['pluginname'] = 'Rapport de courriel sortant';
 $string['privacy:metadata'] = 'Les\'Local IOMAD email report\' only shows data stored in other locations.';
 $string['sender'] = 'Expéditeur';

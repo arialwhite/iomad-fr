@@ -31,7 +31,7 @@ $string['body'] = 'Corps';
 $string['cc'] = 'Adresse CC';
 $string['ccother'] = 'Adresse CC manuelle';
 $string['controls'] = 'Contrôles';
-$string['crontask'] = 'Traitement des courriels de l\'OIMAD';
+$string['crontask'] = 'Traitement des courriels de l\'IOMAD';
 $string['personnalisé'] = 'custom';
 $string['daily'] = 'Tous les jours';
 $string['par défaut'] = 'default';
@@ -117,10 +117,10 @@ $string['privacy:metadata:local_email:subject'] = 'Sujet du courriel';
 $string['privacy:metadata:local_email:body'] = 'Organisme de messagerie';
 $string['privacy:metadata:local_email:courseid'] = 'ID du cours';
 $string['privacy:metadata:local_email:userid'] = 'ID utilisateur du bénéficiaire';
-$string['privacy:metadata:local_email:invoiceid'] = 'ID de la facture de commerce électronique de l\'OIMAD';
+$string['privacy:metadata:local_email:invoiceid'] = 'ID de la facture de commerce électronique de l\'IOMAD';
 $string['privacy:metadata:local_email:senderid'] = 'ID utilisateur de l\'expéditeur';
 $string['privacy:metadata:local_email:headers'] = 'En-tête de courriel supplémentaire';
-$string['privacy:metadata:local_email'] = 'Informations sur les courriels de l\'OIMAD';
+$string['privacy:metadata:local_email'] = 'Informations sur les courriels de l\'IOMAD';
 
 /*Email template descriptors*/
 $string['admin_deleted_name'] = 'Rôle de gestionnaire supprimé';
